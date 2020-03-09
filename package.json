@@ -1,5 +1,6 @@
 {
-  "name": "spa",
+    "homepage": "https://minhpham.github.io/porfolio",
+  "name": "Single page app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
