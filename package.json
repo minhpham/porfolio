@@ -1,6 +1,6 @@
 {
-    "homepage": "https://minhpham.github.io/porfolio",
-  "name": "Single page app",
+    "homepage": "https://minhpham.github.io",
+  "name": "porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
